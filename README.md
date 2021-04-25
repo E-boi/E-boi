@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**E-boi/E-boi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My powercord plugins:
 
-Here are some ideas to get you started:
+[Custom RPC](https://github.com/E-boi/custom-rpc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Better friends list](https://github.com/E-boi/Better-Friends-List)
+
+[Pin DMs](https://github.com/E-boi/pin-dms) - pretty buggy
+
+[Privacy Tab](https://github.com/E-boi/Privacy-Tab)
+
+[BlurNSFW](https://github.com/E-boi/Powercord-BlurNSFW)
+
+[Link Channels](https://github.com/E-boi/powercord-LinkChannels)
+
+[Voice Events](https://github.com/E-boi/voice-events) - dunno if it still works
+
+[NSFW Tags](https://github.com/E-boi/NSFW-tags)
+
+[Date Viewer](https://github.com/E-boi/powercord-dateviewer)
+
+# Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-boi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=E-boi)]()
