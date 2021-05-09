@@ -2,6 +2,8 @@
 
 # My powercord plugins:
 
+[Github in Discord](https://github.com/E-boi/github-in-discord)
+
 [Custom RPC](https://github.com/E-boi/custom-rpc)
 
 [Better friends list](https://github.com/E-boi/Better-Friends-List)
