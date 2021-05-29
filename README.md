@@ -2,6 +2,8 @@
 
 # My powercord plugins:
 
+[Among us](https://github.com/E-boi/among-us)
+
 [Github in Discord](https://github.com/E-boi/github-in-discord)
 
 [Custom RPC](https://github.com/E-boi/custom-rpc)
