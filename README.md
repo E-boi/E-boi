@@ -2,7 +2,7 @@
 
 # My powercord plugins:
 
-[Account Switcher](github.com/e-boi/account-switcher)
+[Account Switcher](https://github.com/e-boi/account-switcher)
 
 [Among us](https://github.com/E-boi/among-us)
 
