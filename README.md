@@ -2,6 +2,8 @@
 
 # My powercord plugins:
 
+[Account Switcher](github.com/e-boi/account-switcher)
+
 [Among us](https://github.com/E-boi/among-us)
 
 [Github in Discord](https://github.com/E-boi/github-in-discord)
