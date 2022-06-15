@@ -1,30 +1,6 @@
 ### Hi there 👋
 
-# My powercord plugins:
-
-[Account Switcher](https://github.com/e-boi/account-switcher)
-
-[Among us](https://github.com/E-boi/among-us)
-
-[Github in Discord](https://github.com/E-boi/github-in-discord)
-
-[Custom RPC](https://github.com/E-boi/custom-rpc)
-
-[Better friends list](https://github.com/E-boi/Better-Friends-List)
-
-[Pin DMs](https://github.com/E-boi/pin-dms) - pretty buggy
-
-[Privacy Tab](https://github.com/E-boi/Privacy-Tab)
-
-[BlurNSFW](https://github.com/E-boi/Powercord-BlurNSFW)
-
-[Link Channels](https://github.com/E-boi/powercord-LinkChannels)
-
-[Voice Events](https://github.com/E-boi/voice-events) - dunno if it still works
-
-[NSFW Tags](https://github.com/E-boi/NSFW-tags)
-
-[Date Viewer](https://github.com/E-boi/powercord-dateviewer)
+I have made some [cumcord plugins](https://github.com/e-boi/cumcord-plugins)
 
 # Stats
 
