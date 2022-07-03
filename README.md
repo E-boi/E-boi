@@ -10,6 +10,6 @@ I have made some [cumcord plugins](https://github.com/e-boi/cumcord-plugins)
 
 # Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e-boi&repo=periljs&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e-boi&repo=periljs&theme=tokyonight&show_owner=true)](https://github.com/e-boi/periljs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e-boi&repo=cumcord-plugins&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e-boi&repo=cumcord-plugins&theme=tokyonight&show_owner=true)](https://github.com/e-boi/cumcord-plugins)
